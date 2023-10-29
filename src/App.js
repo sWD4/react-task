@@ -68,8 +68,8 @@ function App() {
       <StyledFormWrapper>
         <StyledForm>
           <h2>Login Page</h2>
-          <label>Email</label>
-          <StyledInput type="email" name="email" placeholder="Email" />
+          <label>Username</label>
+          <StyledInput type="text" name="name" placeholder="username" />
           <label >Password</label>
           <StyledInput type="password" name="password" placeholder="Password" />
           <StyledButton type="submit">Login</StyledButton>
