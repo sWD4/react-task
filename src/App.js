@@ -76,7 +76,7 @@ function App() {
           <br />
           <div>
             <span>DON`T HAVE AN ACCOUNT? </span>
-            <a href="">
+            <a href="https://www.google.com/" target="/">
               REGISTER NOW
             </a>
           </div>
